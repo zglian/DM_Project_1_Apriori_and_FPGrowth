@@ -1,0 +1,119 @@
+antecedent,consequent,support,confidence,lift
+['sausage'],['pip fruit'],0.01,0.06,0.79
+['pip fruit'],['sausage'],0.01,0.19,0.79
+['frankfurter'],['pip fruit'],0.01,0.07,0.91
+['pip fruit'],['frankfurter'],0.01,0.15,0.91
+['pip fruit'],['pork'],0.01,0.13,1.17
+['pork'],['pip fruit'],0.01,0.09,1.17
+['sausage'],['pork'],0.02,0.1,0.89
+['pork'],['sausage'],0.02,0.21,0.89
+['frankfurter'],['pork'],0.01,0.09,0.81
+['pork'],['frankfurter'],0.01,0.13,0.81
+['frankfurter'],['sausage'],0.03,0.19,0.8
+['sausage'],['frankfurter'],0.03,0.13,0.8
+['tropical fruit'],['other vegetables'],0.02,0.11,0.83
+['other vegetables'],['tropical fruit'],0.02,0.12,0.83
+['chicken'],['sausage'],0.02,0.2,0.84
+['sausage'],['chicken'],0.02,0.07,0.84
+['sausage'],['root vegetables'],0.02,0.07,0.9
+['root vegetables'],['sausage'],0.02,0.21,0.9
+['beef'],['whole milk'],0.02,0.2,0.96
+['whole milk'],['beef'],0.02,0.08,0.96
+['tropical fruit'],['whole milk'],0.02,0.17,0.81
+['whole milk'],['tropical fruit'],0.02,0.11,0.81
+['whole milk'],['citrus fruit'],0.02,0.11,0.86
+['citrus fruit'],['whole milk'],0.02,0.18,0.86
+['whole milk'],['root vegetables'],0.02,0.08,0.92
+['root vegetables'],['whole milk'],0.02,0.19,0.92
+['beef'],['citrus fruit'],0.01,0.15,1.14
+['citrus fruit'],['beef'],0.01,0.1,1.14
+['frankfurter'],['soda'],0.01,0.08,0.99
+['soda'],['frankfurter'],0.01,0.16,0.99
+['frankfurter'],['citrus fruit'],0.02,0.11,0.85
+['citrus fruit'],['frankfurter'],0.02,0.14,0.85
+['beef'],['other vegetables'],0.01,0.13,0.95
+['other vegetables'],['beef'],0.01,0.08,0.95
+['tropical fruit'],['citrus fruit'],0.02,0.12,0.93
+['citrus fruit'],['tropical fruit'],0.02,0.13,0.93
+['pastry'],['whole milk'],0.01,0.33,1.59
+['whole milk'],['pastry'],0.01,0.06,1.59
+['yogurt'],['sausage'],0.02,0.26,1.1
+['sausage'],['yogurt'],0.02,0.07,1.1
+['tropical fruit'],['sausage'],0.03,0.22,0.94
+['sausage'],['tropical fruit'],0.03,0.13,0.94
+['other vegetables'],['soda'],0.01,0.08,0.93
+['soda'],['other vegetables'],0.01,0.13,0.93
+['sausage'],['ham'],0.01,0.05,0.97
+['ham'],['sausage'],0.01,0.23,0.97
+['sausage'],['soda'],0.02,0.07,0.76
+['soda'],['sausage'],0.02,0.18,0.76
+['sausage'],['other vegetables'],0.03,0.12,0.88
+['other vegetables'],['sausage'],0.03,0.21,0.88
+['frankfurter'],['root vegetables'],0.01,0.08,0.97
+['root vegetables'],['frankfurter'],0.01,0.16,0.97
+['whole milk'],['chicken'],0.02,0.07,0.82
+['chicken'],['whole milk'],0.02,0.17,0.82
+['sausage'],['hamburger meat'],0.01,0.04,0.93
+['hamburger meat'],['sausage'],0.01,0.22,0.93
+['tropical fruit'],['pork'],0.02,0.11,1.04
+['pork'],['tropical fruit'],0.02,0.14,1.04
+['whole milk'],['yogurt'],0.01,0.06,0.86
+['yogurt'],['whole milk'],0.01,0.18,0.86
+['meat'],['whole milk'],0.01,0.25,1.18
+['whole milk'],['meat'],0.01,0.06,1.18
+['tropical fruit'],['yogurt'],0.01,0.08,1.16
+['yogurt'],['tropical fruit'],0.01,0.16,1.16
+['frankfurter'],['bottled water'],0.01,0.07,1.31
+['bottled water'],['frankfurter'],0.01,0.22,1.31
+['whole milk'],['other vegetables'],0.03,0.12,0.9
+['other vegetables'],['whole milk'],0.03,0.19,0.9
+['sausage'],['rolls/buns'],0.02,0.07,0.66
+['rolls/buns'],['sausage'],0.02,0.16,0.66
+['other vegetables'],['rolls/buns'],0.01,0.08,0.83
+['rolls/buns'],['other vegetables'],0.01,0.11,0.83
+['beef'],['sausage'],0.02,0.19,0.82
+['sausage'],['beef'],0.02,0.07,0.82
+['citrus fruit'],['pork'],0.01,0.09,0.82
+['pork'],['citrus fruit'],0.01,0.11,0.82
+['whole milk'],['pip fruit'],0.01,0.06,0.79
+['pip fruit'],['whole milk'],0.01,0.16,0.79
+['whole milk'],['ham'],0.01,0.06,1.13
+['ham'],['whole milk'],0.01,0.23,1.13
+['frankfurter'],['whole milk'],0.03,0.18,0.85
+['whole milk'],['frankfurter'],0.03,0.14,0.85
+['other vegetables'],['citrus fruit'],0.01,0.09,0.68
+['citrus fruit'],['other vegetables'],0.01,0.09,0.68
+['tropical fruit'],['rolls/buns'],0.01,0.09,0.93
+['rolls/buns'],['tropical fruit'],0.01,0.13,0.93
+['whole milk'],['sausage'],0.04,0.2,0.86
+['sausage'],['whole milk'],0.04,0.18,0.86
+['frankfurter'],['other vegetables'],0.02,0.11,0.79
+['other vegetables'],['frankfurter'],0.02,0.13,0.79
+['sausage'],['citrus fruit'],0.02,0.1,0.79
+['citrus fruit'],['sausage'],0.02,0.19,0.79
+['whole milk'],['bottled beer'],0.01,0.05,0.96
+['bottled beer'],['whole milk'],0.01,0.2,0.96
+['whole milk'],['pork'],0.02,0.09,0.81
+['pork'],['whole milk'],0.02,0.17,0.81
+['canned beer'],['whole milk'],0.02,0.23,1.09
+['whole milk'],['canned beer'],0.02,0.1,1.09
+['canned beer'],['sausage'],0.02,0.18,0.77
+['sausage'],['canned beer'],0.02,0.07,0.77
+['tropical fruit'],['frankfurter'],0.02,0.12,0.74
+['frankfurter'],['tropical fruit'],0.02,0.1,0.74
+['whole milk'],['rolls/buns'],0.02,0.1,0.97
+['rolls/buns'],['whole milk'],0.02,0.2,0.97
+['frankfurter'],['chicken'],0.01,0.08,0.86
+['chicken'],['frankfurter'],0.01,0.14,0.86
+['frankfurter'],['canned beer'],0.02,0.1,1.11
+['canned beer'],['frankfurter'],0.02,0.18,1.11
+['frankfurter'],['rolls/buns'],0.01,0.09,0.89
+['rolls/buns'],['frankfurter'],0.01,0.15,0.89
+['beef'],['frankfurter'],0.01,0.16,0.96
+['frankfurter'],['beef'],0.01,0.08,0.96
+['whole milk'],['soda'],0.01,0.07,0.81
+['soda'],['whole milk'],0.01,0.17,0.81
+['chicken'],['citrus fruit'],0.01,0.12,0.94
+['citrus fruit'],['chicken'],0.01,0.08,0.94
+['other vegetables'],['pork'],0.01,0.09,0.86
+['pork'],['other vegetables'],0.01,0.12,0.86

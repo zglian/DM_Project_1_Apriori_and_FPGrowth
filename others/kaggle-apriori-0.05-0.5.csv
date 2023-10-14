@@ -1,0 +1,12 @@
+antecedent,consequent,support,confidence,lift
+['frozen vegetables'],['whole milk'],0.06,0.51,0.79
+"['tropical fruit', 'other vegetables']",['whole milk'],0.05,0.55,0.86
+"['yogurt', 'soda']",['whole milk'],0.05,0.56,0.87
+"['yogurt', 'rolls/buns']",['whole milk'],0.07,0.59,0.92
+"['rolls/buns', 'soda']",['whole milk'],0.07,0.54,0.85
+"['other vegetables', 'rolls/buns']",['whole milk'],0.08,0.56,0.87
+"['yogurt', 'other vegetables']",['whole milk'],0.07,0.6,0.93
+"['bottled water', 'whole milk']",['other vegetables'],0.06,0.5,1.03
+"['bottled water', 'other vegetables']",['whole milk'],0.06,0.6,0.93
+"['sausage', 'other vegetables']",['whole milk'],0.05,0.54,0.84
+"['other vegetables', 'soda']",['whole milk'],0.07,0.56,0.87
